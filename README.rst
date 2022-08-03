@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+Milk's SMP Docs
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Learn everything the minecraft server has to offer.
 
-Read the tutorial here:
+Read today!
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://milksmp.readthedocs.io/en/latest/
